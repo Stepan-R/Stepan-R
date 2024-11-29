@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stepan
   
-- 👀 I’m a Frontend Web Developer, React master
+- 👀 I’m a Frontend Web Developer, React Expert
 
 - 🌱 I’m interested in exploring new frameworks and libraries, improving my skills in UI/UX design, and staying updated with the latest trends in web development.
   
